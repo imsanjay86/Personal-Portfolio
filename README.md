@@ -7,3 +7,4 @@ Technologies Used: HTML,SCSS,CSS,JavaScript
 
 
 # Output
+![Screenshot 2024-11-20 091253](https://github.com/user-attachments/assets/e93e7a75-eb78-4c4b-83e5-dd1fc4468c03)
